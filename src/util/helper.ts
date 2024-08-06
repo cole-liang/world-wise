@@ -19,8 +19,9 @@ export const formatDate = (
 };
 
 export const flagemojiToPNG = (flag: string) => {
+  // @ts-expect-error: It is a legit usage without any argument. Don't know why typescript complains about this.
   const countryCode = Array.from(flag, (codeUnit) => codeUnit.codePointAt())
-    .map((char) => String.fromCharCode(char - 127397).toLowerCase())
+    .map((char) => String.fromCharCode(char! - 127397).toLowerCase())
     .join("");
   return `https://flagcdn.com/24x18/${countryCode}.png`;
 };
