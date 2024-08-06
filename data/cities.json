@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "countryCode": "ES",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "b8147757-b7c1-457b-b035-39794ba95748",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "countryCode": "pt",
+      "date": "2024-07-14T07:18:24.616Z",
+      "notes": "",
+      "position": {
+        "lat": 38.72635931094496,
+        "lng": -9.197090029462046
+      }
+    },
+    {
+      "id": "5eb00150-86d7-4123-b831-70dba27a4206",
+      "cityName": "Sintra",
+      "country": "Portugal",
+      "countryCode": "pt",
+      "date": "2024-07-14T07:18:42.629Z",
+      "notes": "",
+      "position": {
+        "lat": 38.75743027809643,
+        "lng": -9.25648585556149
+      }
+    },
+    {
+      "id": "2253c6aa-2610-4176-a5cc-0db70799b26a",
+      "cityName": "Arraiolos",
+      "country": "Portugal",
+      "countryCode": "pt",
+      "date": "2024-07-14T07:19:10.519Z",
+      "notes": "",
+      "position": {
+        "lat": 38.74326988254162,
+        "lng": -8.096923828125002
+      }
+    }
+  ]
+}
